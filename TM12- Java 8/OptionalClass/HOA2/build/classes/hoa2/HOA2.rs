@@ -1,0 +1,6 @@
+DigitCountClass
+hoa2.HOA2
+HOA2
+hoa2.functionalInterface
+hoa2.DigitCountClass
+functionalInterface
